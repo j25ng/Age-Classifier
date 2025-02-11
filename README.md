@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/> 데이터베이스 
 
 ## 아키텍쳐 구상도
-![image](https://github.com/user-attachments/assets/07992c4b-d047-4c41-9234-c64e1aac1afd)
+![image](https://github.com/user-attachments/assets/6e65c048-ff74-4a68-b273-65ed7ac8b701)
 
 
 ## 주요 기능
